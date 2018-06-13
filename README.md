@@ -8,3 +8,4 @@ and on different datasets we have accuracy about 78 %
 we here used 12 epchos.
 
 our photo is here    https://photos.app.goo.gl/xbo6CGRcDMZm4RSk2
+![]( 	IMG_20171124_124036.jpg)
